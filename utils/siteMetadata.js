@@ -32,7 +32,7 @@ const socialLinks = [
     { name: 'twitter', href: "https://twitter.com/theo_louvel", icon: <FiTwitter /> },
     { name: 'dribbble', href: "https://dribbble.com/theolouvel", icon: <FaDribbble /> },
     { name: 'github', href: "https://github.com/theolouvel", icon: <FiGithub /> },
-    { name: 'linkedin', href: "https://www.linkedin.com/in/theolouvel", icon: <FiLinkedin /> },
+    // { name: 'linkedin', href: "https://www.linkedin.com/in/theolouvel", icon: <FiLinkedin /> },
     // { name: 'mail', href: 'mailto:louveltheophile@gmail.com', icon: <FiMail /> },
     { name: 'rss', href: siteInfo.url + '/rss.xml', icon: <FiRss /> },
 ]
